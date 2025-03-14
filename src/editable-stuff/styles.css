@@ -383,7 +383,7 @@
 .projects-heading {
   font-size: 2.75em;
   font-weight: normal;
-  background: linear-gradient(45deg, #9e9e9e, #000000);
+  background: linear-gradient(45deg, #dfdddd, #000000);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-align: center;
@@ -404,7 +404,7 @@
 .about-heading {
   font-size: 2.75em;
   font-weight: Normal;
-  background: linear-gradient(45deg, #a3a2a2, #000000); /* Gradient from purple to dark purple */
+  background: linear-gradient(45deg, #dfdddd, #000000);
   -webkit-background-clip: text; /* Applies the gradient to text */
   color: transparent; /* Makes the text color transparent, showing the gradient */
 }
