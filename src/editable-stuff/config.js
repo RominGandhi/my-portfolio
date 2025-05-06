@@ -70,7 +70,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "RominGandhi", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["Artificial-Intelligence-Genetic-Algorithm", "M-A-Screening-Valuation-Automation", "Sudoku-CSP", "A-Search-Algorithm-Puzzle-Solver","E-Commerce-Price-Scraper", "Automated-Student-Database-Marking-System-VBA" ]
+  specificRepos: ["Predictive-Trading-using-ML", "Valuation-Financial-Modeling-Platform", "Artificial-Intelligence-Genetic-Algorithm", "Sudoku-CSP", "A-Search-Algorithm-Puzzle-Solver","E-Commerce-Price-Scraper" ]
 };
 
 // Leadership SECTION

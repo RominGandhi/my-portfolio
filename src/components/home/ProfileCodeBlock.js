@@ -30,12 +30,15 @@ const ProfileCodeBlock = () => {
 
         {"  "}frameworks_Libraries<span className="symbol">:</span> <span className="symbol">[</span>
         <span className="framework">'React'</span>,{" "}
-        <span className="framework">'Node.js'</span>,{" "}
         <span className="framework">'Django'</span>,{" "}
         <span className="framework">'Flask'</span>,{" "}
-        <span className="framework">'Pandas'</span>,{" "}
         <span className="framework">'NumPy'</span>,{" "}
-        <span className="framework">'Bootstrap'</span>
+        <span className="framework">'Pandas'</span>,{" "}
+        <span className="framework">'Matplotlib'</span>,{" "}
+        <span className="framework">'request'</span>,{" "}
+        <span className="framework">'TensorFlow'</span>,{" "}
+        <span className="framework">'Scikit-Learn'</span>
+        <span className="framework">'PyTorch'</span>
         <span className="symbol">]</span>,{"\n"}
 
         {"  "}curious<span className="symbol">:</span> <span className="boolean">true</span>,{"\n"}

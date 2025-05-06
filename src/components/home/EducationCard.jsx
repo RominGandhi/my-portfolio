@@ -55,6 +55,10 @@ const EducationCard = ({ data }) => {
             maxWidth: "100%",
             maxHeight: "100%",
             objectFit: "contain",
+            marginLeft: 
+              data.school === "Wilfrid Laurier University" ? "70px" : "0px", // 👈 Conditional shift
+
+
           }}
         />
       </div>

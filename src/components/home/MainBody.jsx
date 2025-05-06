@@ -12,9 +12,12 @@ const MainBody = React.forwardRef(({ gradient, title, icons }, ref) => {
   useEffect(() => {
     const typed = new Typed(typedElement.current, {
       strings: [
+        "a 3rd-Year Double Degree Student in CS and Business",
         "a Developer",
         "a Problem Solver",
-        "a Finance and Tech Enthusiast"
+        "a Student Focused on Quantitative Finance"
+
+
       ],
       typeSpeed: 70,
       backSpeed: 40,
